@@ -1,0 +1,7 @@
+
+// MetaMask mobile wallet connection
+
+https://docs.metamask.io/guide/mobile-best-practices.html#the-provider-window-ethereum
+
+https://betterprogramming.pub/build-a-react-component-for-metamask-auth-10b7ecba5c3f
+
